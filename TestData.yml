@@ -1,0 +1,15 @@
+inputLanguage:
+   - en
+   - es
+   
+outputLanguage:
+   - es
+   - en
+   
+inputText:
+   - hello
+   - hola
+   
+outputText:
+   - hola
+   - hello
